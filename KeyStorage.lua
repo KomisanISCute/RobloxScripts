@@ -1,1 +1,1 @@
-local v21='abc'
+local v21={'abc'}
