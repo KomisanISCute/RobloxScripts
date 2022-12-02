@@ -13147,4 +13147,6 @@ spawn(function()
 		end
 	end
 end)
+	else
+	game.Players.LocalPlayer:kick('\n[ERR 837 : Get Key Please ;(')
 end
