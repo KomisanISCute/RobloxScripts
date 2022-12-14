@@ -31,7 +31,6 @@ _G.Settings = {
 		["Auto Factory"] = false,
 		["Auto Factory Hop"] = false,
 		["Auto Bartilo Quest"] = false,
-
 		["Auto True Triple Katana"] = false,
 		["Auto Rengoku"] = false,
 		["Auto Swan Glasses"] = false,
